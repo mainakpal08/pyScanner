@@ -1,7 +1,7 @@
 # :zap: [Py]Scanner :zap:
 [![Python](https://img.shields.io/badge/Language-Python-red.svg)](https://www.python.org/)
-[![lib](https://img.shields.io/badge/library-OpenCV-blue.svg)]
-[![author](https://img.shields.io/badge/Author-Mainak-orange.svg)](https://mpalrocks.github.io/)
+[![lib](https://img.shields.io/badge/library-OpenCV-blue.svg)](https://opencv.org/)
+[![author](https://img.shields.io/badge/Author-Mainak-brightgreen.svg)](https://mpalrocks.github.io/)
 
  
 A Kick-Ass Document Scanner application using OpenCV written in python.
@@ -12,7 +12,7 @@ A Kick-Ass Document Scanner application using OpenCV written in python.
 <img src="original.png?raw=true">
 
 ### Scanned Image :
-<img src="edged.png?raw=true">
+<img src="scanned.png?raw=true">
 
 ## Dependancies
 
